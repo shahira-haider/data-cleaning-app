@@ -28,7 +28,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Coming Soon (Streamlit Community Cloud)
+https://data-cleaning-app-shahirahaider-mscenp94uz7g75jjhzunyv.streamlit.app/
 
 ## 👩‍💻 Author
 
